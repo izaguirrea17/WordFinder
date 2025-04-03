@@ -1,5 +1,6 @@
 ﻿Consideraciones para la resolución del ejercicio:
 
+- El archivo Qu Developer Challenge-Word Finder.pdf tiene la descripción del ejercicio
 - Se estableció el valor 64 para el número de columnas y de filas como lo especifica el problema, por eso no se usó numRows = this.matrix.Count por ejemplo.
 - Si ninguna palabra es encontrada, el programa devuelve la lista de palabras con el contador en 0.
 - Usamos HashSet para evitar duplicados sin tener que preocuparnos por revisar las palabras.
@@ -12,6 +13,7 @@
 
 Considerations for solving the exercise:
 
+- The file Qu Developer Challenge-Word Finder.pdf has the description of the exercise
 - The value 64 was set for the number of columns and rows as specified in the problem, so numRows = this.matrix.Count was not used.
 - If no word is found, the program returns the list of words with the counter at 0.
 - I used HashSet to avoid duplicates without having to worry about checking the words.
